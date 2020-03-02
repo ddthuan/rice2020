@@ -1,5 +1,3 @@
-# https://www.math.ens.fr/~feydy/Teaching/DataScience/cnn_part_2.html
-# plot: https://github.com/ludoro/dataproject/blob/master/Student_notebook.ipynb
 from __future__ import print_function
 import torch
 import torch.nn as nn
