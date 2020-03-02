@@ -1,2 +1,2 @@
 # RICE 2020
-prepare for paper RICE 2020 Conference
+prepare for the paper of RICE 2020 Conference
