@@ -1,5 +1,3 @@
-# https://laurentperrinet.github.io/sciblog/posts/2017-09-20-the-fastest-2d-convolution-in-the-world.html
-
 from __future__ import division, print_function
 
 from libcore import *
